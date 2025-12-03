@@ -1,6 +1,3 @@
-# Technical Skills Profile
-*Engineering & Design Capabilities*
-
 ## Hardware Design Technology
 *   **Digital Circuit Design** Using 8/16/32bits MCU
 *   **Analog Circuit Design** For Control and Instrumentation
