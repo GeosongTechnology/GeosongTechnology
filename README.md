@@ -1,16 +1,34 @@
-## Hi there 👋
+# Technical Skills Profile
+*Engineering & Design Capabilities*
 
-<!--
-**GeosongTechnology/GeosongTechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hardware Design Technology
+*   **Digital Circuit Design** Using 8/16/32bits MCU
+*   **Analog Circuit Design** For Control and Instrumentation
+*   **Multi-Media Circuit Design** For Audio and Video
 
-Here are some ideas to get you started:
+## Firmware Design Technology
+*   **Experience with various MCUs**
+    *   8051, PIC, SAM8, MSP430, ARM-7, ARM-9, ARM-11, CORTEX-M Series, CORTEX-A Series
+*   **OS-related Application Technology**
+    *   FreeRTOS, uC-OS II, Nucleus, Embedded Linux
+*   **Communication Application Technology**
+    *   USB, CAN, TCP/IP, BLUETOOTH, WIFI, LORA, RS232/RS485, I2C, SPI, I2S, ETC.
+*   **Memory Application Technology**
+    *   NAND FLASH, NOR FLASH, SDRAM, SRAM, ETC.
+*   **Knowledge and Application of File System**
+*   **Multimedia Application** such as Audio and Video
+*   **UI/UX Implementation Skills**
+*   **Control and Filter Algorithm Implementation Skills**
+    *   PID, Fuzzy, Neural Network, Kalman, Etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mechanical Analysis and Design Technology
+*   **Tool Proficiency**
+    *   Auto-CAD, Inventor, Solidworks
+*   **Mechanical Structural Analysis (FEA)**
+*   **Fluid Flow Analysis (CFD)**
+
+## Software Design Technology
+*   **Programming Languages**
+    *   C, C++, Python, Java, Javascript
+*   **Application Development Platforms**
+    *   Windows, Linux, Android
