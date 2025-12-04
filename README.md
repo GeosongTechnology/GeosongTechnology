@@ -1,9 +1,16 @@
-## Hardware Design Technology
+## **Geosong Technology**
+📝 _We have expertise in the following areas._
+📁**_Rooted in Resilience, Branching with Grace_**
+
+<br>
+
+
+> ### Hardware Design Technology
 *   **Digital Circuit Design** Using 8/16/32bits MCU
 *   **Analog Circuit Design** For Control and Instrumentation
 *   **Multi-Media Circuit Design** For Audio and Video
 
-## Firmware Design Technology
+>### Firmware Design Technology
 *   **Experience with various MCUs**
     *   8051, PIC, SAM8, MSP430, ARM-7, ARM-9, ARM-11, CORTEX-M Series, CORTEX-A Series
 *   **OS-related Application Technology**
@@ -18,13 +25,13 @@
 *   **Control and Filter Algorithm Implementation Skills**
     *   PID, Fuzzy, Neural Network, Kalman, Etc.
 
-## Mechanical Analysis and Design Technology
+>### Mechanical Analysis and Design Technology
 *   **Tool Proficiency**
     *   Auto-CAD, Inventor, Solidworks
 *   **Mechanical Structural Analysis (FEA)**
 *   **Fluid Flow Analysis (CFD)**
 
-## Software Design Technology
+>### Software Design Technology
 *   **Programming Languages**
     *   C, C++, Python, Java, Javascript
 *   **Application Development Platforms**
